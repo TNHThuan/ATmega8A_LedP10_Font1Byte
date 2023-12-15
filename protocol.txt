@@ -1,0 +1,6 @@
+$KÝNH CHÀO&QUý KH¸CH#
+
+Baudrate 600,8,N,1
+Start: $
+Seperate Line: &
+Font: VNI 1 byte (ABC)

@@ -1,0 +1,33 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+bufferDisplay                                                                     0x0164     256
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+matrix_selectX                                                                    R5           1
+matrix_selectY                                                                    R4           1
+maxtrix_printTextX                                                                R7           1
+maxtrix_printTextY                                                                R6           1
+flagFrameDataValid                                                                R9           1
+interCheck                                                                        R8           1
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+IC138QuetHang                                                                     0x006DD     32
+IC74HC595GuiDuLieu                                                                0x006FD     20
+TimerHandlerShowLed                                                               0x00711     70
+Matrix_SelectPos                                                                  0x00757      4
+MatrixSetup                                                                       0x0075B     37
+Matrix_ClearFromTo                                                                0x00780     18
+Matrix_PrintText                                                                  0x00792     73
+Matrix_PrintString                                                                0x007DB     17
+usart_rx_isr                                                                      0x007EC     42
+timer0_ovf_isr                                                                    0x00816     23
+main                                                                              0x0082D     43

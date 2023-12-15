@@ -1,0 +1,7 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"source.c" LINE:54
+Matrix_PrintString DSTACK_USAGE:2 DSTACK_LEVEL:2 FILE:"C:\cvavr\inc\atmega8_ledp10_dispfnc.h" LINE:159
+Matrix_PrintText DSTACK_USAGE:2 DSTACK_LEVEL:4 FILE:"C:\cvavr\inc\atmega8_ledp10_dispfnc.h" LINE:141
+MatrixSetup DSTACK_USAGE:5 DSTACK_LEVEL:9 FILE:"C:\cvavr\inc\atmega8_ledp10_dispfnc.h" LINE:102
+timer0_ovf_isr DSTACK_USAGE:12 DSTACK_LEVEL:21 FILE:"source.c" LINE:39
+TimerHandlerShowLed DSTACK_USAGE:8 DSTACK_LEVEL:29 FILE:"C:\cvavr\inc\atmega8_ledp10_dispfnc.h" LINE:64
+IC74HC595GuiDuLieu DSTACK_USAGE:2 DSTACK_LEVEL:31 FILE:"C:\cvavr\inc\atmega8_ledp10_dispfnc.h" LINE:51
